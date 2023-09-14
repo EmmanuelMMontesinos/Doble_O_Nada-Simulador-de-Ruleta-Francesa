@@ -7,7 +7,7 @@
 ***
 ¿Te has preguntado si funciona el metodo de Doble o Nada en la Ruleta?
 Ese pequeño programa simula el numero de tiradas y las ganancias/perdidas.
-### Screenshot
+### imagenes
 ![Ruleta Francesa](https://cdn20.pamono.com/p/z/2/2/226702_zaa3kmdypu/ruleta-francesa-a-os-20-imagen-5.jpg)
 ## Tecnologias
 ***
